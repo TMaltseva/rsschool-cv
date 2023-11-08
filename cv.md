@@ -1,4 +1,4 @@
-<div><br class="Apple-interchange-newline"><img src="./assets/img/Me.jpg" width="280" height="400">
+<img src="./assets/img/Me.jpg" width="280" height="400">
 # Maltseva Tamara Nikolayevna
 ### _Female, born on 20 January 1991_.
 I’m mostly interested in JavaScript and web-design. I don’t have work experience yet, but I do have some projects written in JavaScript. My passion is good design and high functionality of the surrounding space.
@@ -69,4 +69,4 @@ let previews = document.querySelectorAll('.slider-preview-item a');
 
 > [Library](https://rolling-scopes-school.github.io/tmaltseva-JSFEPRESCHOOL2023Q2/library)<br>
 > [Random game](https://rolling-scopes-school.github.io/tmaltseva-JSFEPRESCHOOL2023Q2/random-game/)<br>
-> [Image gallery](https://rolling-scopes-school.github.io/tmaltseva-JSFEPRESCHOOL2023Q2/image-gallery/)</div>
+> [Image gallery](https://rolling-scopes-school.github.io/tmaltseva-JSFEPRESCHOOL2023Q2/image-gallery/)
