@@ -223,7 +223,7 @@
     .proj-items-wrap {
         padding: 1rem;
         display: flex;
-        gap: 25px;
+        gap: 26px;
         width: 90vw;
         height: 35vw;
         transition: transform 0.5s ease-in-out;
