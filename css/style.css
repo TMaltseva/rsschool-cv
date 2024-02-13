@@ -27,6 +27,7 @@
       /* min-height: 100vh; */
       padding: 0;
       overflow-x:hidden;
+      scroll-behavior: smooth; 
     }
     
     .section {
@@ -397,8 +398,8 @@
       position: absolute;
       top: 50%;
       right: 5%;
-      width: 2.5%;
-      height: 3.7%;
+      width: 2.7%;
+      height: 4.5%;
       background-size: cover;
       background-color: transparent;
       transition: all 0.5s;
@@ -409,8 +410,8 @@
         position: absolute;
         top: 50%;
         right: 5%;
-        width: 2.5%;
-        height: 3.7%;
+        width: 2.7%;
+        height: 4.5%;
         background-size: cover;
         background-color: transparent;
         transition: all 0.5s;
@@ -431,8 +432,8 @@
       position: absolute;
       top: 50%;
       left: 5%;
-      width: 2.5%;
-      height: 3.7%;
+      width: 2.7%;
+      height: 4.5%;
       background-size: cover;
       background-color: transparent;
       transition: all 0.5s;
@@ -443,8 +444,8 @@
         position: absolute;
         top: 50%;
         left: 5%;
-        width: 2.5%;
-        height: 3.7%;
+        width: 2.7%;
+        height: 4.5%;
         background-size: cover;
         background-color: transparent;
         transition: all 0.5s;
@@ -742,10 +743,6 @@
       left: 45%;
     }
 
-
-  
-   
-  
   a:not(.main-logo) {
       text-decoration: none;
       color: #fff;
