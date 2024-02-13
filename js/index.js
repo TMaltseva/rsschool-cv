@@ -12,24 +12,6 @@ let sliderCount = 0;
 let autoSlideInterval;
 
 
-// function updateArrows() {
-//     if (sliderCount === 0) {
-//         ARROW_PREV.setAttribute('disabled', 'true');
-//         ARROW_PREV.classList.add('disabled');
-//     } else {
-//         ARROW_PREV.removeAttribute('disabled');
-//         ARROW_PREV.classList.remove('disabled');
-//     }
-
-//     if (sliderCount === MAX_SLIDES) {
-//         ARROW_NEXT.setAttribute('disabled', 'true');
-//         ARROW_NEXT.classList.add('disabled');
-//     } else {
-//         ARROW_NEXT.removeAttribute('disabled');
-//         ARROW_NEXT.classList.remove('disabled');
-//     }
-// }
-
 function nextSlide() {
     if (sliderCount < MAX_SLIDES) {
         sliderCount++;
@@ -262,3 +244,5 @@ document.addEventListener('DOMContentLoaded', function () {
     handleResize();
     window.addEventListener('resize', handleResize);
 });
+
+
