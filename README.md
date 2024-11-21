@@ -1,2 +1,2 @@
 # rsschool-cv
-CV for RS School 1st stage task
+https://Tchaykat.github.io/rsschool-cv/cv
