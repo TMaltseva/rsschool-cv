@@ -70,7 +70,4 @@ export default class BaseComponent<T extends HTMLElement = HTMLElement> {
 
 > [Simon-says](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/simon-says/)<br>
 > [Image gallery](https://rolling-scopes-school.github.io/tmaltseva-JSFEPRESCHOOL2023Q2/image-gallery/)<br>
-> [Audio Player](https://rolling-scopes-school.github.io/tmaltseva-JSFEPRESCHOOL2023Q2/audio-player/)<br>
-> [Nonograms game](https://rolling-scopes-school.github.io/tmaltseva-JSFE2023Q4/nonograms/)<br>
-> [CSS Slider](https://tmaltseva.github.io/cssMemeSlider/cssMemeSlider%C2%A0%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/index.html)<br>
 > [E-Commerce App Team Task](https://keep-calm-and-code.netlify.app/)<br>
