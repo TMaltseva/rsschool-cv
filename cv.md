@@ -69,5 +69,6 @@ export default class BaseComponent<T extends HTMLElement = HTMLElement> {
 ## Examples of Projects
 
 > [Simon-says](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/simon-says/)<br>
+> [Nonograms](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/nonograms/)<br>
 > [Image gallery](https://rolling-scopes-school.github.io/tmaltseva-JSFEPRESCHOOL2023Q2/image-gallery/)<br>
 > [E-Commerce App Team Task](https://keep-calm-and-code.netlify.app/)<br>
