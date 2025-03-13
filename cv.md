@@ -68,6 +68,8 @@ export default class BaseComponent<T extends HTMLElement = HTMLElement> {
 
 ## Examples of Projects
 
+> [News API](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/news-api/)<br>
+> [Decision Picker](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/decision-making-tool/)<br>
 > [Simon-says](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/simon-says/)<br>
 > [Nonograms](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/nonograms/)<br>
 > [Image gallery](https://rolling-scopes-school.github.io/tmaltseva-JSFEPRESCHOOL2023Q2/image-gallery/)<br>
