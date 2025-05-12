@@ -70,6 +70,7 @@ export default class BaseComponent<T extends HTMLElement = HTMLElement> {
 
 > [News API](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/news-api/)<br>
 > [Decision Making Tool](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/decision-making-tool/)<br>
+> [Fun Chat](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/fun-chat/)<br>
 > [Simon-says](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/simon-says/)<br>
 > [Nonograms](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/nonograms/)<br>
 > [Image gallery](https://rolling-scopes-school.github.io/tmaltseva-JSFEPRESCHOOL2023Q2/image-gallery/)<br>
