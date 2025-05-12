@@ -4,7 +4,7 @@
 
 Graduated from St. Petersburg Technological University. Worked as a trade marketing manager for several years. Interested in mastering a game engine or library for creating game mechanics. Currently in the process of learning React. My passion is good design and high functionality of the surrounding space.
 
-tmaltsevaspain@gmail.com — _preferred means of communication_
+bacardeonie@gmail.com — _preferred means of communication_
 
 - Citizenship: Russia
 - Ready to relocate, ready for business trips
