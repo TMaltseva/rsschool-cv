@@ -11,11 +11,11 @@ tmaltsevaspain@gmail.com — _preferred means of communication_
 
 ## Contact Info
 
-- E-mail: [tmaltsevaspain@gmail.com](bacardeonie@gmail.com)
-- LinkedIn: [Tamara Chayka](www.linkedin.com/in/tamara-maltseva-364292179)
-- GitHub: [TChayka](https://github.com/TMaltseva)
+- E-mail: [bacardeonie@gmail.com](bacardeonie@gmail.com)
+- LinkedIn: [Tamara Maltseva](https://www.linkedin.com/in/tamara-maltseva-364292179/)
+- GitHub: [TMaltseva](https://github.com/TMaltseva)
 - Discord: [Tommy (@TMaltseva)]()
-
+  
 ## Desired position and salary
 
 #### Frontend Developer
