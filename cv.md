@@ -1,21 +1,19 @@
 <img src="./assets/Me.jpg" width="270" height="400">
-# Chayka Tamara Nikolayevna
+# Maltseva Tamara Nikolayevna
 ### Female, born on 20 January.
 
 Graduated from St. Petersburg Technological University. Worked as a trade marketing manager for several years. Interested in mastering a game engine or library for creating game mechanics. Currently in the process of learning React. My passion is good design and high functionality of the surrounding space.
 
 tmaltsevaspain@gmail.com — _preferred means of communication_
 
-- Reside in Spain
 - Citizenship: Russia
 - Ready to relocate, ready for business trips
 
 ## Contact Info
 
-- Address: Leizaola Lehendakariaren Kalea, 5, 48009, Bilbo, Bizkaia
 - E-mail: [tmaltsevaspain@gmail.com](bacardeonie@gmail.com)
 - LinkedIn: [Tamara Chayka](www.linkedin.com/in/tamara-maltseva-364292179)
-- GitHub: [TChayka](https://github.com/Tchaykat/)
+- GitHub: [TChayka](https://github.com/TMaltseva)
 - Discord: [Tommy (@TMaltseva)]()
 
 ## Desired position and salary
@@ -35,7 +33,7 @@ tmaltsevaspain@gmail.com — _preferred means of communication_
 2023    | HTML, CSS
 HTML-Academy
 
-2024    | Frontend-разработчик
+2024    | Frontend-developer
 RSSchool Frontend course 2023Q4
 
 
