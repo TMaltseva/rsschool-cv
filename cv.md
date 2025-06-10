@@ -66,6 +66,7 @@ export default class BaseComponent<T extends HTMLElement = HTMLElement> {
 
 ## Examples of Projects
 
+> [Progress Component](https://github.com/TMaltseva/progress-component/)<br>
 > [Rick and Morty app](https://tmaltseva.github.io/rick-and-morty-app/)<br>
 > [News API](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/news-api/)<br>
 > [Decision Making Tool](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/decision-making-tool/)<br>
