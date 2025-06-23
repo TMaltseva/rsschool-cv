@@ -68,10 +68,11 @@ export default class BaseComponent<T extends HTMLElement = HTMLElement> {
 
 > [Progress Component](https://tmaltseva.github.io/progress-component/)<br>
 > [Rick and Morty app](https://tmaltseva.github.io/rick-and-morty-app/)<br>
+> [Routing Table Manager](https://tmaltseva.github.io/routing-table/)<br>
+> [ToDo App](https://tmaltseva.github.io/todo-app/)<br>
 > [News API](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/news-api/)<br>
 > [Decision Making Tool](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/decision-making-tool/)<br>
 > [Fun Chat](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/fun-chat/)<br>
 > [Simon-says](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/simon-says/)<br>
 > [Nonograms](https://rolling-scopes-school.github.io/tmaltseva-JSFE2024Q4/nonograms/)<br>
-> [ToDo App](https://tmaltseva.github.io/todo-app/)<br>
 > [E-Commerce App Team Task](https://keep-calm-and-code.netlify.app/)<br>
