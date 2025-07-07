@@ -2,7 +2,7 @@
 # Maltseva Tamara Nikolayevna
 ### Female, born on 20 January.
 
-Graduated from St. Petersburg Technological University. Worked as a trade marketing manager for several years. Interested in mastering a game engine or library for creating game mechanics. Currently in the process of learning React. My passion is good design and high functionality of the surrounding space.
+Graduated from St. Petersburg Technological University. Worked as a trade marketing manager for several years. I want to become part of a creative team where I can implement spectacular projects, use modern technologies and constantly improve my skills. I am inspired by working with animations, WebGL, and next-level interfaces. My passion is good design and high functionality of the surrounding space.
 
 bacardeonie@gmail.com — _preferred means of communication_
 
